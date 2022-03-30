@@ -1,2 +1,2 @@
 # myrepo3
-#rd repo for git design course
+3rd repo for git design course
